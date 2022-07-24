@@ -1,0 +1,6 @@
+html,
+body {
+  min-height: 100%;
+  background-image: linear-gradient( #000000cc 0px, #00000000 500px),
+                    url('~@/assets/images/bg-carpet-green.jpg');
+}
